@@ -27,7 +27,8 @@ A CSS rule is made of two things:
 - A selector
 - A list of properties
 
-Example: ```css
+Example:
+```css
 nav#navbar.blue a {
   color: white;
 }
